@@ -1,0 +1,21 @@
+Does the link list have a cycle?
+Girl Scout Cookie Conspiracy 
+Binary Search Tree Checker 
+Implement a Queue With Two Stacks
+The Nth Fibonacci Number 
+Permutation Palindrome
+-from https://www.interviewcake.com/microsoft-interview-questions
+
+Check if a Binary Tree is BST or not 
+Remove duplicates from a string, do it in-place 
+Given a rotated array which is sorted search for an element in it 
+Given two linked lists that represent two big numbers (numbers that can not be stored in an int or long long int), write a function that adds the numbers and store the result in a third list.
+Variations of above question like subtract two numbers or multiply two numbers represented by linked lists.
+Print last 10 lines of a big file or big string.
+Clone a linked list with next and arbitrary (or random) pointer
+Connect nodes at same level.
+Least common ancestor of a binary tree or a binary search tree
+Test case questions like test an ATM.
+Run length encoding. 
+Detect cycle in a linked list.
+-from https://www.geeksforgeeks.org/microsofts-asked-interview-questions/
